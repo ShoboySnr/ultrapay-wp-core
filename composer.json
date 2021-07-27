@@ -1,0 +1,11 @@
+{
+    "name": "ultrapay-wp/ultrapay-wp-core",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "Damilare Shobowale",
+            "email": "oluwadamilareshobowale@gmail.com"
+        }
+    ],
+    "require": {}
+}
