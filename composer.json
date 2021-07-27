@@ -7,5 +7,15 @@
             "email": "oluwadamilareshobowale@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "UltraPay\\Core\\": "src/"
+        },
+    },
+    "config": {
+        "platform": {
+            "php": "5.6"
+        }
+    },
     "require": {}
 }
